@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_Infinix-X6711.mk
+    $(LOCAL_DIR)/twrp_InfinixX6711.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_Infinix-X6711-eng
+    twrp_InfinixX6711-eng
