@@ -10,7 +10,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 $(call inherit-product, device/infinix/Infinix-X6711/device.mk)
 
-PRODUCT_DEVICE := InfinixX6711
+PRODUCT_DEVICE := Infinix-X6711
 PRODUCT_NAME := twrp_InfinixX6711
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix X6711
